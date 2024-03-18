@@ -83,7 +83,7 @@
 
 ---
 
-<h4> Connect with me🤝: <h4>
+<h4> Connect with me✉️: <h4>
   </hr>
   <a href="https://www.linkedin.com/in/surya-prasath-40785624a/">
    <img align="left" alt="Surya Prasath | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
