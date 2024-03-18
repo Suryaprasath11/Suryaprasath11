@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     This is me <b>Surya Prasath</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>DR.SNS RAJALAKSHMI COLLEDGE OF ARTS AND SCIENCE</b>, COIMBATORE</a>.
-    An aspiring <b>Cyber Security specialist,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+    An aspiring <b>Cyber Security specialist,</b>&nbsp;  <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Aʟᴡᴀʏs ᴛʀᴜsᴛ ᴛʜᴇ ᴘʀᴏᴄᴇss ᴀɴᴅ ᴡᴏʀᴋ ʜᴀʀᴅ---"</i></b>
 </p>
