@@ -14,8 +14,8 @@
 <h3> 𝐓𝐡𝐢𝐧𝐠𝐬 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 🔻</h3>
 
 - 🧞 I'm a Cyber security Analysist.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
+- 🔭 I’m currently working on Front End Web Development, Native Mobile Development.
+- 👯 I’m looking to collaborate with FrontEnd Web and Mobile Developement projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 - 🕹️ Game On, Hearts Engaged
 <br>
