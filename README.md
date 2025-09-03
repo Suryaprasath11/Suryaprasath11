@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Surya Prasath.S</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Surya Prasath S</h1>
 <p align="center">
   <a href="https://github.com/Suryaprasath11/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
@@ -14,8 +14,8 @@
 <h3> 𝐓𝐡𝐢𝐧𝐠𝐬 𝐚𝐛𝐨𝐮𝐭 𝐦𝐞 🔻</h3>
 
 - 🧞 I'm a Cyber security Analysist.
-- 🔭 I’m currently working on Front End Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with FrontEnd Web and Mobile Developement projects.
+- 🔭 I’m currently working on Cyber Security ,Python Full Stack Development.
+- 👯 I’m looking to collaborate with Any Part of WEb Development projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 - 🕹️ Game On, Hearts Engaged
 <br>
@@ -89,11 +89,14 @@
   <a href="https://www.linkedin.com/in/surya-prasath-40785624a/">
    <img align="left" alt="Surya Prasath | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:suryashali2005@gmail.com">
+  <a href="mailto:suryaprasathshalibheeman@gmail.com">
     <img align="left" alt="Surya Prasath | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://github.com/Suryaprasath11">
     <img align="left" alt="Surya Prasath| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <a href="https://instagram.com/suryx_jr">
+    <img align="left" alt="Surya | Instagram" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />
   </a>
   <br>
   
