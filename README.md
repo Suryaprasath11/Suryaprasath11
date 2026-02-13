@@ -24,7 +24,7 @@
 <td align="center" width="220" style="padding:15px;">
   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="50"/>
   <h3>Education</h3>
-  <p>Bsc CS Graduate</p>
+  <p>Bsc CS with CyberSecurity Graduate</p>
 </td>
 <td align="center" width="220" style="padding:15px;">
   <img src="https://cdn-icons-png.flaticon.com/512/3095/3095710.png" width="50"/>
