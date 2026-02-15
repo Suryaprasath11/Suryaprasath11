@@ -84,6 +84,9 @@
 <td align="center" width="200">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50"/><br>Python
 </td>
+<td align="center" width="150">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40"/><br>Java
+</td>
 <td align="center" width="200">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/><br>Firebase
 </td>
@@ -93,16 +96,13 @@
 </tr>
 <tr>
 <td align="center" width="150">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/><br>TensorFlow
-</td>
-<td align="center" width="150">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/><br>OpenCV
-</td>
-<td align="center" width="150">
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/><br>Google Colab
 </td>
 <td align="center" width="150">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/><br>AWS
+</td>
+<td align="center" width="150">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/><br>Node.js
 </td>
 </tr>
 </table>
