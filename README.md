@@ -1,6 +1,3 @@
-<!-- ========================= -->
-<!-- 🖤 SURYA DASHBOARD README -->
-<!-- ========================= -->
 
 <h1 align="center" style="color:#94b4a4;">Surya Prasath S</h1>
 <p align="center">
@@ -13,10 +10,6 @@
 </p>
 
 ---
-
-<!-- ========================= -->
-<!-- 💡 ABOUT ME CARDS -->
-<!-- ========================= -->
 
 <p align="center">
 <table align="center">
@@ -31,22 +24,11 @@
   <h3>Cyber Security</h3>
   <p>Penetration Testing | Ethical Hacking | Bug Bounty</p>
 </td>
-<td align="center" width="220" style="padding:15px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055688.png" width="50"/>
-  <h3>AI & ML</h3>
-  <p>Python | TensorFlow | PyTorch | OpenCV</p>
-</td>
-</tr>
-<tr>
+
 <td align="center" width="220" style="padding:15px;">
   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055683.png" width="50"/>
   <h3>Web Dev</h3>
   <p>Python | ReactJS | Figma | NodeJS | Firebase</p>
-</td>
-<td align="center" width="220" style="padding:15px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055686.png" width="50"/>
-  <h3>Competitive Programming</h3>
-  <p>DSA | Algorithms | Java | Python</p>
 </td>
 <td align="center" width="220" style="padding:15px;">
   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055690.png" width="50"/>
@@ -58,10 +40,6 @@
 </p>
 
 ---
-
-<!-- ========================= -->
-<!-- 🛠 TECH STACK GRID -->
-<!-- ========================= -->
 
 <h2 align="center" style="color:#94b4a4;">💻 Tech Stack</h2>
 <p align="center">
@@ -96,9 +74,6 @@
 </tr>
 <tr>
 <td align="center" width="150">
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/><br>Google Colab
-</td>
-<td align="center" width="150">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/><br>AWS
 </td>
 <td align="center" width="150">
@@ -117,8 +92,7 @@
 <h2 align="center" style="color:#94b4a4;">📊 GitHub Stats</h2>
 
 <p align="center">
-<!-- <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=Suryaprasath11&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true"/> -->
-<!-- <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaprasath11&layout=compact&theme=dark&hide_border=false&langs_count=10"/> -->
+
 <img align="center" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryaprasath11&theme=dark"/>
 </p>
 
@@ -130,10 +104,10 @@
 
 <h2 align="center" style="color:#94b4a4;">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/surya-prasath-40785624a/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px"/></a>
-  <a href="mailto:suryaprasathshalibheeman@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35px"/></a>
-  <a href="https://github.com/Suryaprasath11"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="35px"/></a>
-  <a href="https://instagram.com/suryx_jr"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="35px"/></a>
+  <a href="https://www.linkedin.com/in/surya-prasath-40785624a/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35px" /></a>
+  <a href="mailto:suryaprasathshalibheeman@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="35px" /></a>
+  <a href="https://github.com/Suryaprasath11"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="35px" /></a>
+  <a href="https://instagram.com/suryx_jr"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="35px" /></a>
 </p>
 
 <p align="center">Profile Views: <img src="https://komarev.com/ghpvc/?username=Suryaprasath&label=Profile%20views&color=0e75b6&style=flat"/></p>
