@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#000000;">Surya Prasath S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cyber+Security+Analyst;AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cyber+Security+Endhusiastic;Freelancer" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 
 <tr>
 <td align="center" width="200">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/><br><b>ReactJS</b>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/><br><b>React + Vite</b>
 </td>
 <td align="center" width="200">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br><b>Python</b>
